@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         知乎beta
-// @version      1.0.0
+// @version      1.0.1
 // @author       mika4096
 // @description  知乎优化版
 // @icon         https://static.zhihu.com/heifetz/favicon.ico
